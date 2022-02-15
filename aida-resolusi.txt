@@ -1,0 +1,8 @@
+Halo pak, salam kenal saya Aida dari Bekasi
+
+Resolusi saya :
+- Paham cara implementasi API dan dapat mengimplementasikan nya dalam project saya 
+- Mempelajari tentang Laravel, Vue js, Nuxt js, Docker
+- Dapat menyelesaikan magang dengan baik 
+- Menyelesaikan kelas LaraVue di salah satu platform
+- Saya ingin lebih banyak memahami bahasa pemrograman agar skill yang saya miliki bertambah 
